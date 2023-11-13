@@ -29,6 +29,8 @@
 ###
 
 <h1 align="center">Hello Incredible Github Family</h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=anton&size=30&pause=1000&color=18F734&background=000000EA&center=true&vCenter=true&random=false&width=434&lines=I+Am+Akash+Satpute" alt="Typing SVG" /></a>
+</h1>
 
 ###
 
@@ -103,17 +105,71 @@
 </div>
 
 ###
+# Education_>
 
-<h3 align="left">🔥   My Stats :</h3>
+<br>
+
+<br>
+<table>
+  <tr>
+    <th>Course</th>
+    <th>School/College</th>
+    <th>Year of Passing</th>
+    
+  </tr>
+  <tr>
+    <td>B.Tech in Computer Engineering</td>
+    <td><a>Pillai's College of Engineering, Panvel</td>
+    <td>2026
+    
+  </tr>
+  <tr>
+    <td>Higher Secondary Certification</td>
+    <td>BN Bandodkar collage ,Thane</td>
+    <td>2022</td>
+   
+  </tr>
+  <tr>
+    <td>Secondary School Certification</td>
+    <td>Tilak International School, Ghansoli</td>
+    <td>2020</td>
+ 
+  </tr>
+ </table>
+ <br>
+
+<br><br>
+
+<br>
+
+<h1 align="left">🔥   My Stats :</h1>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akash221104&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Akash221104&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=24&order=3" height="220" alt="streak graph"  />
-</div>
+
+
+<p align="center">
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash221104&theme=tokyonight_duo&border_radius=5&date_format=M%20j%5B%2C%20Y%5D">
+
+<br>
+<br>
+
+<br>
+
+<img height="143px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akash221104&theme=github">
+<br>
+<br>
+<br>
+
+<br>
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash221104&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,b621fe,1fd1f9&theme=synthwave">
+
+</p>
+
+ 
 
 ###
 
